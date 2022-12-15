@@ -1,0 +1,1567 @@
+[
+    {
+        "pkmnName": "venusaur",
+        "moves": [
+            "Growth",
+            "Giga Drain",
+            "Weather Ball",
+            "Sludge Bomb"
+        ],
+        "item": "Life Orb",
+        "ability": "Chlorophyll",
+        "nature": "Modest",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "charizard",
+        "moves": [
+            "Weather Ball",
+            "Overheat",
+            "Focus Blast",
+            "Roost"
+        ],
+        "item": "Choice Specs",
+        "ability": "Solar Power",
+        "nature": "Timid",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "clefable",
+        "moves": [
+            "Moonblast",
+            "Soft-Boiled",
+            "Stealth Rock",
+            "Knock Off"
+        ],
+        "item": "Leftovers",
+        "ability": "Magic Guard",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "clefable",
+        "moves": [
+            "Calm Mind",
+            "Moonblast",
+            "Soft-Boiled",
+            "Flamethrower"
+        ],
+        "item": "Life Orb",
+        "ability": "Magic Guard",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "clefable",
+        "moves": [
+            "Teleport",
+            "Moonblast",
+            "Wish",
+            "Protect"
+        ],
+        "item": "Leftovers",
+        "ability": "Magic Guard",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "alakazam",
+        "moves": [
+            "Nasty Plot",
+            "Psychic",
+            "Focus Blast",
+            "Recover"
+        ],
+        "item": "Life Orb",
+        "ability": "Magic Guard",
+        "nature": "Timid",
+        "EVs": [
+            "28 Def",
+            "228 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "slowbro",
+        "moves": [
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Future Sight"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Regenerator",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "cloyster",
+        "moves": [
+            "Shell Smash",
+            "Icicle Spear",
+            "Rock Blast",
+            "Ice Shard"
+        ],
+        "item": "King's Rock",
+        "ability": "Skill Link",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "gengar",
+        "moves": [
+            "Substitute",
+            "Nasty Plot",
+            "Shadow Ball",
+            "Focus Blast"
+        ],
+        "item": "Black Sludge",
+        "ability": "Cursed Body",
+        "nature": "Timid",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "chansey",
+        "moves": [
+            "Seismic Toss",
+            "Soft-Boiled",
+            "Toxic",
+            "Stealth Rock"
+        ],
+        "item": "Eviolite",
+        "ability": "Natural Cure",
+        "nature": "Bold",
+        "EVs": [
+            "248 HP",
+            "252 Def",
+            "8 SpD"
+        ]
+    },
+    {
+        "pkmnName": "starmie",
+        "moves": [
+            "Scald",
+            "Recover",
+            "Rapid Spin",
+            "Flip Turn"
+        ],
+        "item": "Leftovers",
+        "ability": "Natural Cure",
+        "nature": "Timid",
+        "EVs": [
+            "252 HP",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "gyarados",
+        "moves": [
+            "Dragon Dance",
+            "Waterfall",
+            "Earthquake",
+            "Substitute"
+        ],
+        "item": "Leftovers",
+        "ability": "Moxie",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "ditto",
+        "moves": [
+            "Transform"
+        ],
+        "item": "Choice Scarf",
+        "ability": "Imposter",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "4 Atk",
+            "252 Def"
+        ]
+    },
+    {
+        "pkmnName": "snorlax",
+        "moves": [
+            "Curse",
+            "Body Slam",
+            "Rest",
+            "Heat Crash"
+        ],
+        "item": "Leftovers",
+        "ability": "Thick Fat",
+        "nature": "Careful",
+        "EVs": [
+            "252 HP",
+            "4 Def",
+            "252 SpD"
+        ]
+    },
+    {
+        "pkmnName": "mew",
+        "moves": [
+            "Stealth Rock",
+            "Spikes",
+            "Taunt",
+            "Flare Blitz"
+        ],
+        "item": "Red Card",
+        "ability": "Synchronize",
+        "nature": "Jolly",
+        "EVs": [
+            "252 HP",
+            "4 Atk",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "xatu",
+        "moves": [
+            "Psychic",
+            "Roost",
+            "Teleport",
+            "Heat Wave"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Magic Bounce",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "azumarill",
+        "moves": [
+            "Belly Drum",
+            "Play Rough",
+            "Aqua Jet",
+            "Knock Off"
+        ],
+        "item": "Sitrus Berry",
+        "ability": "Huge Power",
+        "nature": "Adamant",
+        "EVs": [
+            "4 HP",
+            "252 Atk",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "quagsire",
+        "moves": [
+            "Scald",
+            "Earthquake",
+            "Recover",
+            "Toxic"
+        ],
+        "item": "Leftovers",
+        "ability": "Unaware",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "slowking",
+        "moves": [
+            "Scald",
+            "Slack Off",
+            "Teleport",
+            "Future Sight"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Regenerator",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "scizor",
+        "moves": [
+            "Bullet Punch",
+            "U-turn",
+            "Roost",
+            "Knock Off"
+        ],
+        "item": "Leftovers",
+        "ability": "Technician",
+        "nature": "Careful",
+        "EVs": [
+            "248 HP",
+            "8 Def",
+            "252 SpD"
+        ]
+    },
+    {
+        "pkmnName": "shuckle",
+        "moves": [
+            "Sticky Web",
+            "Stealth Rock",
+            "Encore",
+            "Infestation"
+        ],
+        "item": "Red Card",
+        "ability": "Sturdy",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "heracross",
+        "moves": [
+            "Swords Dance",
+            "Close Combat",
+            "Facade",
+            "Knock Off"
+        ],
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mantine",
+        "moves": [
+            "Scald",
+            "Roost",
+            "Defog",
+            "Haze"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Water Absorb",
+        "nature": "Bold",
+        "EVs": [
+            "248 HP",
+            "164 Def",
+            "96 Spe"
+        ]
+    },
+    {
+        "pkmnName": "skarmory",
+        "moves": [
+            "Spikes",
+            "Roost",
+            "Whirlwind",
+            "Body Press"
+        ],
+        "item": "Rocky Helmet",
+        "ability": "Sturdy",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "kingdra",
+        "moves": [
+            "Hydro Pump",
+            "Draco Meteor",
+            "Hurricane",
+            "Surf"
+        ],
+        "item": "Choice Specs",
+        "ability": "Swift Swim",
+        "nature": "Modest",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "blissey",
+        "moves": [
+            "Seismic Toss",
+            "Soft-Boiled",
+            "Teleport",
+            "Toxic"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Natural Cure",
+        "nature": "Bold",
+        "EVs": [
+            "200 HP",
+            "252 Def",
+            "56 SpD"
+        ]
+    },
+    {
+        "pkmnName": "tyranitar",
+        "moves": [
+            "Stone Edge",
+            "Crunch",
+            "Heavy Slam",
+            "Fire Punch"
+        ],
+        "item": "Choice Band",
+        "ability": "Sand Stream",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "tyranitar",
+        "moves": [
+            "Rock Blast",
+            "Stealth Rock",
+            "Toxic",
+            "Rest"
+        ],
+        "item": "Leftovers",
+        "ability": "Sand Stream",
+        "nature": "Careful",
+        "EVs": [
+            "252 HP",
+            "4 Def",
+            "252 SpD"
+        ]
+    },
+    {
+        "pkmnName": "pelipper",
+        "moves": [
+            "Scald",
+            "Roost",
+            "U-turn",
+            "Defog"
+        ],
+        "item": "Damp Rock",
+        "ability": "Drizzle",
+        "nature": "Bold",
+        "EVs": [
+            "248 HP",
+            "252 Def",
+            "8 SpD"
+        ]
+    },
+    {
+        "pkmnName": "torkoal",
+        "moves": [
+            "Lava Plume",
+            "Rest",
+            "Rapid Spin",
+            "Sleep Talk"
+        ],
+        "item": "Heat Rock",
+        "ability": "Drought",
+        "nature": "Bold",
+        "EVs": [
+            "248 HP",
+            "252 Def",
+            "8 SpD"
+        ]
+    },
+    {
+        "pkmnName": "crawdaunt",
+        "moves": [
+            "Swords Dance",
+            "Crabhammer",
+            "Knock Off",
+            "Aqua Jet"
+        ],
+        "item": "Life Orb",
+        "ability": "Adaptability",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "jirachi",
+        "moves": [
+            "Iron Head",
+            "U-turn",
+            "Trick",
+            "Wish"
+        ],
+        "item": "Choice Scarf",
+        "ability": "Serene Grace",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "gastrodon",
+        "moves": [
+            "Scald",
+            "Earthquake",
+            "Recover",
+            "Toxic"
+        ],
+        "item": "Rocky Helmet",
+        "ability": "Sticky Hold",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "hippowdon",
+        "moves": [
+            "Earthquake",
+            "Slack Off",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "item": "Rocky Helmet",
+        "ability": "Sand Stream",
+        "nature": "Impish",
+        "EVs": [
+            "252 HP",
+            "8 Atk",
+            "248 Def"
+        ]
+    },
+    {
+        "pkmnName": "weavile",
+        "moves": [
+            "Triple Axel",
+            "Knock Off",
+            "Ice Shard",
+            "Low Kick"
+        ],
+        "item": "Choice Band",
+        "ability": "Pressure",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "magnezone",
+        "moves": [
+            "Thunderbolt",
+            "Flash Cannon",
+            "Volt Switch",
+            "Toxic"
+        ],
+        "item": "Choice Specs",
+        "ability": "Analytic",
+        "nature": "Modest",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "magnezone",
+        "moves": [
+            "Iron Defense",
+            "Body Press",
+            "Thunderbolt",
+            "Substitute"
+        ],
+        "item": "Air Balloon",
+        "ability": "Magnet Pull",
+        "nature": "Bold",
+        "EVs": [
+            "252 Def",
+            "116 SpA",
+            "140 Spe"
+        ]
+    },
+    {
+        "pkmnName": "rhyperior",
+        "moves": [
+            "Stealth Rock",
+            "Earthquake",
+            "Rock Blast",
+            "Swords Dance"
+        ],
+        "item": "Leftovers",
+        "ability": "Solid Rock",
+        "nature": "Adamant",
+        "EVs": [
+            "244 HP",
+            "16 Atk",
+            "188 SpD",
+            "60 Spe"
+        ]
+    },
+    {
+        "pkmnName": "tangrowth",
+        "moves": [
+            "Giga Drain",
+            "Knock Off",
+            "Focus Blast",
+            "Sleep Powder"
+        ],
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "nature": "Relaxed",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "togekiss",
+        "moves": [
+            "Nasty Plot",
+            "Air Slash",
+            "Roost",
+            "Heal Bell"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Serene Grace",
+        "nature": "Timid",
+        "EVs": [
+            "252 HP",
+            "120 Def",
+            "136 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mamoswine",
+        "moves": [
+            "Icicle Crash",
+            "Earthquake",
+            "Ice Shard",
+            "Knock Off"
+        ],
+        "item": "Choice Band",
+        "ability": "Thick Fat",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "excadrill",
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Toxic",
+            "Stealth Rock"
+        ],
+        "item": "Leftovers",
+        "ability": "Mold Breaker",
+        "nature": "Jolly",
+        "EVs": [
+            "4 Atk",
+            "252 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "excadrill",
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Swords Dance",
+            "Rapid Spin"
+        ],
+        "item": "Leftovers",
+        "ability": "Sand Rush",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "conkeldurr",
+        "moves": [
+            "Close Combat",
+            "Mach Punch",
+            "Knock Off",
+            "Facade"
+        ],
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "seismitoad",
+        "moves": [
+            "Stealth Rock",
+            "Scald",
+            "Earth Power",
+            "Knock Off"
+        ],
+        "item": "Leftovers",
+        "ability": "Water Absorb",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "krookodile",
+        "moves": [
+            "Earthquake",
+            "Knock Off",
+            "Stone Edge",
+            "Close Combat"
+        ],
+        "item": "Choice Scarf",
+        "ability": "Anger Point",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "reuniclus",
+        "moves": [
+            "Calm Mind",
+            "Psyshock",
+            "Recover",
+            "Thunder"
+        ],
+        "item": "Life Orb",
+        "ability": "Magic Guard",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "212 Def",
+            "44 Spe"
+        ]
+    },
+    {
+        "pkmnName": "amoonguss",
+        "moves": [
+            "Spore",
+            "Giga Drain",
+            "Sludge Bomb",
+            "Toxic"
+        ],
+        "item": "Black Sludge",
+        "ability": "Regenerator",
+        "nature": "Bold",
+        "EVs": [
+            "248 HP",
+            "168 Def",
+            "92 SpD"
+        ]
+    },
+    {
+        "pkmnName": "jellicent",
+        "moves": [
+            "Night Shade",
+            "Strength Sap",
+            "Will-O-Wisp",
+            "Taunt"
+        ],
+        "item": "Leftovers",
+        "ability": "Water Absorb",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "196 Def",
+            "60 Spe"
+        ]
+    },
+    {
+        "pkmnName": "ferrothorn",
+        "moves": [
+            "Spikes",
+            "Knock Off",
+            "Body Press",
+            "Leech Seed"
+        ],
+        "item": "Leftovers",
+        "ability": "Iron Barbs",
+        "nature": "Impish",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "chandelure",
+        "moves": [
+            "Shadow Ball",
+            "Flamethrower",
+            "Trick",
+            "Overheat"
+        ],
+        "item": "Choice Specs",
+        "ability": "Flash Fire",
+        "nature": "Modest",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mienshao",
+        "moves": [
+            "Close Combat",
+            "U-turn",
+            "Knock Off",
+            "Rock Slide"
+        ],
+        "item": "Assault Vest",
+        "ability": "Regenerator",
+        "nature": "Jolly",
+        "EVs": [
+            "144 HP",
+            "112 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mienshao",
+        "moves": [
+            "Close Combat",
+            "U-turn",
+            "Knock Off",
+            "Rock Slide"
+        ],
+        "item": "Choice Scarf",
+        "ability": "Regenerator",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "bisharp",
+        "moves": [
+            "Swords Dance",
+            "Iron Head",
+            "Knock Off",
+            "Sucker Punch"
+        ],
+        "item": "Black Glasses",
+        "ability": "Defiant",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mandibuzz",
+        "moves": [
+            "Foul Play",
+            "Roost",
+            "Defog",
+            "U-turn"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Overcoat",
+        "nature": "Impish",
+        "EVs": [
+            "248 HP",
+            "160 Def",
+            "44 SpD",
+            "56 Spe"
+        ]
+    },
+    {
+        "pkmnName": "hydreigon",
+        "moves": [
+            "Nasty Plot",
+            "Draco Meteor",
+            "Flash Cannon",
+            "Roost"
+        ],
+        "item": "Life Orb",
+        "ability": "Levitate",
+        "nature": "Timid",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "volcarona",
+        "moves": [
+            "Quiver Dance",
+            "Flamethrower",
+            "Psychic",
+            "Bug Buzz"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Flame Body",
+        "nature": "Timid",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "volcarona",
+        "moves": [
+            "Quiver Dance",
+            "Flamethrower",
+            "Psychic",
+            "Roost"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Flame Body",
+        "nature": "Timid",
+        "EVs": [
+            "248 HP",
+            "8 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "terrakion",
+        "moves": [
+            "Swords Dance",
+            "Close Combat",
+            "Stone Edge",
+            "Earthquake"
+        ],
+        "item": "Life Orb",
+        "ability": "Justified",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "terrakion",
+        "moves": [
+            "Stealth Rock",
+            "Taunt",
+            "Close Combat",
+            "Stone Edge"
+        ],
+        "item": "Focus Sash",
+        "ability": "Justified",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "kyurem",
+        "moves": [
+            "Ice Beam",
+            "Draco Meteor",
+            "Earth Power",
+            "Freeze-Dry"
+        ],
+        "item": "Choice Specs",
+        "ability": "Pressure",
+        "nature": "Timid",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "kyurem",
+        "moves": [
+            "Dragon Dance",
+            "Icicle Spear",
+            "Substitute",
+            "Roost"
+        ],
+        "item": "Leftovers",
+        "ability": "Pressure",
+        "nature": "Jolly",
+        "EVs": [
+            "56 HP",
+            "252 SpD",
+            "200 Spe"
+        ]
+    },
+    {
+        "pkmnName": "keldeo",
+        "moves": [
+            "Calm Mind",
+            "Scald",
+            "Secret Sword",
+            "Substitute"
+        ],
+        "item": "Leftovers",
+        "ability": "Justified",
+        "nature": "Timid",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "diggersby",
+        "moves": [
+            "Swords Dance",
+            "Body Slam",
+            "Earthquake",
+            "Quick Attack"
+        ],
+        "item": "Life Orb",
+        "ability": "Huge Power",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "talonflame",
+        "moves": [
+            "Swords Dance",
+            "Brave Bird",
+            "Flare Blitz",
+            "Roost"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Gale Wings",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "aegislash",
+        "moves": [
+            "Substitute",
+            "Toxic",
+            "Shadow Ball",
+            "King's Shield"
+        ],
+        "item": "Leftovers",
+        "ability": "Stance Change",
+        "nature": "Modest",
+        "EVs": [
+            "252 HP",
+            "252 SpA",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "aegislash",
+        "moves": [
+            "Swords Dance",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Close Combat"
+        ],
+        "item": "Air Balloon",
+        "ability": "Stance Change",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "hawlucha",
+        "moves": [
+            "Swords Dance",
+            "Acrobatics",
+            "Close Combat",
+            "Taunt"
+        ],
+        "item": "Grassy Seed",
+        "ability": "Unburden",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "incineroar",
+        "moves": [
+            "Knock Off",
+            "Flare Blitz",
+            "Parting Shot",
+            "Toxic"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Intimidate",
+        "nature": "Careful",
+        "EVs": [
+            "248 HP",
+            "200 SpD",
+            "60 Spe"
+        ]
+    },
+    {
+        "pkmnName": "primarina",
+        "moves": [
+            "Hydro Pump",
+            "Moonblast",
+            "Psychic",
+            "Scald"
+        ],
+        "item": "Choice Specs",
+        "ability": "Torrent",
+        "nature": "Modest",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "primarina",
+        "moves": [
+            "Substitute",
+            "Calm Mind",
+            "Scald",
+            "Moonblast"
+        ],
+        "item": "Leftovers",
+        "ability": "Torrent",
+        "nature": "Calm",
+        "EVs": [
+            "248 HP",
+            "40 SpA",
+            "44 SpD",
+            "176 Spe"
+        ]
+    },
+    {
+        "pkmnName": "toxapex",
+        "moves": [
+            "Scald",
+            "Recover",
+            "Haze",
+            "Knock Off"
+        ],
+        "item": "Rocky Helmet",
+        "ability": "Regenerator",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "252 Def",
+            "4 SpD"
+        ]
+    },
+    {
+        "pkmnName": "araquanid",
+        "moves": [
+            "Sticky Web",
+            "Liquidation",
+            "Magic Coat",
+            "Toxic"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Water Bubble",
+        "nature": "Adamant",
+        "EVs": [
+            "212 HP",
+            "252 Atk",
+            "44 Spe"
+        ]
+    },
+    {
+        "pkmnName": "salazzle",
+        "moves": [
+            "Toxic",
+            "Sludge Wave",
+            "Flamethrower",
+            "Nasty Plot"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Corrosion",
+        "nature": "Timid",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "mimikyu",
+        "moves": [
+            "Swords Dance",
+            "Play Rough",
+            "Shadow Claw",
+            "Shadow Sneak"
+        ],
+        "item": "Life Orb",
+        "ability": "Disguise",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "kommo-o",
+        "moves": [
+            "Body Press",
+            "Earthquake",
+            "Stealth Rock",
+            "Toxic"
+        ],
+        "item": "Leftovers",
+        "ability": "Bulletproof",
+        "nature": "Impish",
+        "EVs": [
+            "252 HP",
+            "148 Def",
+            "40 SpD",
+            "68 Spe"
+        ]
+    },
+    {
+        "pkmnName": "necrozma",
+        "moves": [
+            "Autotomize",
+            "Photon Geyser",
+            "Heat Wave",
+            "Power Gem"
+        ],
+        "item": "Weakness Policy",
+        "ability": "Prism Armor",
+        "nature": "Timid",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "zeraora",
+        "moves": [
+            "Plasma Fists",
+            "Volt Switch",
+            "Close Combat",
+            "Knock Off"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Volt Absorb",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "zeraora",
+        "moves": [
+            "Thunderbolt",
+            "Volt Switch",
+            "Grass Knot",
+            "Aura Sphere"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Volt Absorb",
+        "nature": "Timid",
+        "EVs": [
+            "4 Def",
+            "252 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "rillaboom",
+        "moves": [
+            "Wood Hammer",
+            "U-turn",
+            "Grassy Glide",
+            "Knock Off"
+        ],
+        "item": "Choice Band",
+        "ability": "Grassy Surge",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "rillaboom",
+        "moves": [
+            "Swords Dance",
+            "Grassy Glide",
+            "Knock Off",
+            "Drain Punch"
+        ],
+        "item": "Life Orb",
+        "ability": "Grassy Surge",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "corviknight",
+        "moves": [
+            "Defog",
+            "Body Press",
+            "Roost",
+            "U-turn"
+        ],
+        "item": "Leftovers",
+        "ability": "Pressure",
+        "nature": "Impish",
+        "EVs": [
+            "252 HP",
+            "132 Def",
+            "124 SpD"
+        ]
+    },
+    {
+        "pkmnName": "corviknight",
+        "moves": [
+            "Bulk Up",
+            "Brave Bird",
+            "Roost",
+            "Taunt"
+        ],
+        "item": "Leftovers",
+        "ability": "Pressure",
+        "nature": "Careful",
+        "EVs": [
+            "252 HP",
+            "228 SpD",
+            "28 Spe"
+        ]
+    },
+    {
+        "pkmnName": "barraskewda",
+        "moves": [
+            "Waterfall",
+            "Crunch",
+            "Aqua Jet",
+            "Flip Turn"
+        ],
+        "item": "Choice Band",
+        "ability": "Swift Swim",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "toxtricity",
+        "moves": [
+            "Overdrive",
+            "Boomburst",
+            "Volt Switch",
+            "Sludge Bomb"
+        ],
+        "item": "Choice Specs",
+        "ability": "Punk Rock",
+        "nature": "Modest",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "hatterene",
+        "moves": [
+            "Calm Mind",
+            "Psyshock",
+            "Draining Kiss",
+            "Mystical Fire"
+        ],
+        "item": "Leftovers",
+        "ability": "Magic Bounce",
+        "nature": "Bold",
+        "EVs": [
+            "252 HP",
+            "196 Def",
+            "60 Spe"
+        ]
+    },
+    {
+        "pkmnName": "grimmsnarl",
+        "moves": [
+            "Reflect",
+            "Light Screen",
+            "Taunt",
+            "Spirit Break"
+        ],
+        "item": "Light Clay",
+        "ability": "Prankster",
+        "nature": "Adamant",
+        "EVs": [
+            "92 HP",
+            "252 Atk",
+            "164 Spe"
+        ]
+    },
+    {
+        "pkmnName": "obstagoon",
+        "moves": [
+            "Facade",
+            "Knock Off",
+            "Close Combat",
+            "Switcheroo"
+        ],
+        "item": "Flame Orb",
+        "ability": "Guts",
+        "nature": "Adamant",
+        "EVs": [
+            "252 Atk",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "dragapult",
+        "moves": [
+            "Shadow Ball",
+            "Draco Meteor",
+            "Flamethrower",
+            "Hex"
+        ],
+        "item": "Choice Specs",
+        "ability": "Infiltrator",
+        "nature": "Modest",
+        "EVs": [
+            "252 SpA",
+            "4 SpD",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "dragapult",
+        "moves": [
+            "Hex",
+            "U-turn",
+            "Dragon Darts",
+            "Will-O-Wisp"
+        ],
+        "item": "Heavy-Duty Boots",
+        "ability": "Infiltrator",
+        "nature": "Mild",
+        "EVs": [
+            "68 Atk",
+            "188 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "dragapult",
+        "moves": [
+            "Dragon Dance",
+            "Dragon Darts",
+            "Steel Wing",
+            "Fire Blast"
+        ],
+        "item": "Life Orb",
+        "ability": "Infiltrator",
+        "nature": "Lonely",
+        "EVs": [
+            "252 Atk",
+            "4 SpA",
+            "252 Spe"
+        ]
+    },
+    {
+        "pkmnName": "urshifu",
+        "moves": [
+            "Wicked Blow",
+            "Close Combat",
+            "Iron Head",
+            "U-turn"
+        ],
+        "item": "Choice Band",
+        "ability": "Unseen Fist",
+        "nature": "Jolly",
+        "EVs": [
+            "252 Atk",
+            "4 Def",
+            "252 Spe"
+        ]
+    }
+]
